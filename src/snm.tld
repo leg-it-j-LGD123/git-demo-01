@@ -6,6 +6,7 @@
         version="2.1">
     <description>master-test</description>
     <description>hot-fix test</description>
+    <description>push test</description>
     <tlib-version>3.0</tlib-version>
     <short-name>myshortname</short-name>
     <uri>http://mycompany.com</uri>
